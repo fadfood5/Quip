@@ -1,0 +1,44 @@
+h1{
+	font-family: 'Pacifico', cursive;
+}
+.input{
+	max-width: 500px;
+}
+.InstantBox{
+	margin: 0 auto;
+	max-width: 400px;
+	margin-top:10px;
+}
+ul{
+	background-color: white;
+	color: #333;
+	border: 1px solid transparent;
+	border-radius: 5px;
+}
+li{
+	padding:10px;
+	border-bottom:1px solid #eee;
+}
+li:last-child{
+	border-bottom: 0px;
+}
+img{
+	width: 150px;
+}
+.hero.is-Red{background-color:#F44336}
+.hero.is-Purple{background-color:#9C27B0}
+.hero.is-DeepPurple{background-color:#673AB7}
+.hero.is-Indigo{background-color:#3F51B5}
+.hero.is-Cyan{background-color:#00BCD4}
+.hero.is-Blue{background-color:#01579B}
+.hero.is-Teal{background-color:#009688}
+.hero.is-Green{background-color:#4CAF50}
+.hero.is-Amber{background-color:#FFC107}
+.hero.is-Orange{background-color:#FF9800}
+.hero.is-DeepOrange{background-color:#FF5722}
+.hero.is-Brown{background-color:#795548}
+.hero.is-Grey{background-color:#9E9E9E}
+.hero.is-BlueGrey{background-color:#607D8B}
+.hero .title{
+	color:white;
+ }
