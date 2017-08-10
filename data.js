@@ -399,6 +399,9 @@ var tableData=[
 		'name':'Einstein Bagels',
 		'link':'http://maps.google.com/maps?daddr=28.063747,-82.413592'
 	},{
+        'name': 'Embassy Suites by Hilton Tampa USF Near Busch Gardens',
+        'link': 'http://maps.google.com/maps?daddr=28.055728, -82.417504'
+    }, {
         'name': 'Fairway Oaks Apartments',
         'link': 'http://maps.google.com/maps?daddr=28.077177375,-82.410947084'
     }, {
@@ -462,6 +465,12 @@ var tableData=[
 		'name':"Moe's",
 		'link':'http://maps.google.com/maps?daddr=28.064055,-82.413879'
 	},{
+        'name': "The Hub",
+        'link': 'http://maps.google.com/maps?daddr=28.067329, -82.413093'
+    }, {
+        'name': "INTO USF",
+        'link': 'http://maps.google.com/maps?daddr=28.061537, -82.410136'
+    }, {
 		'name':'On Top of the Palms',
 		'link':'http://maps.google.com/maps?daddr=28.063726,-82.413425'
 	},{

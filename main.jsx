@@ -52,6 +52,9 @@ var InstantBox = React.createClass({
 });
 
 var SearchBox = React.createClass({
+    componentDidMount(){
+        this.refs.searchInput.getDOMNode().focus();
+    },
     doSearch:function(){
         var query=this.refs.searchInput.getDOMNode().value; // this is the search text
         this.props.doSearch(query);
