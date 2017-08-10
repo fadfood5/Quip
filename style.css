@@ -42,3 +42,17 @@ img{
 .hero .title{
 	color:white;
  }
+
+footer {
+	padding: 5px;
+}
+
+footer, footer strong {
+	text-align: center;
+	color: white;
+	background-color: #333;
+}
+
+footer a:hover {
+	color: white;
+}

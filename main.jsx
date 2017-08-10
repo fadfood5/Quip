@@ -46,6 +46,20 @@ var InstantBox = React.createClass({
                         </div>
                     </div>
                 </section>
+                <footer class="footer">
+                    <div class="container">
+                        <div class="content has-text-centered">
+                            <p>
+                                <strong>Quip</strong> by <a href="http://vinnakota.co.in">Saikrishna Vinnakota</a> and
+                                <a href="http://fadibitar.me">Fadi Bitar</a>.
+                            </p>
+                            <p>
+                                Notice a missing location? Let us know at <a class="icon"
+                                                                             href="mailto:usfquip@gmail.com">usfquip@gmail.com</a>
+                            </p>
+                        </div>
+                    </div>
+                </footer>
             </div>
         );
     }
