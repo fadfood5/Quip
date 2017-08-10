@@ -30,7 +30,7 @@ var tableData=[
         'name':'BSF - Bio Science',
         'link':'http://maps.google.com/maps?daddr=28.06052,-82.414402'
     },{
-        'name':'BSN - Business',
+        'name': 'BSN - Muma College of Business',
         'link':'http://maps.google.com/maps?daddr=28.058253,-82.409981'
     },{
         'name':'CAM - Contemporary Art Museum',
@@ -399,9 +399,66 @@ var tableData=[
 		'name':'Einstein Bagels',
 		'link':'http://maps.google.com/maps?daddr=28.063747,-82.413592'
 	},{
-		'name':'Juniper Dining',
-		'link':'http://maps.google.com/maps?daddr=28.059881,-82.418087'
-	},{
+        'name': 'Fairway Oaks Apartments',
+        'link': 'http://maps.google.com/maps?daddr=28.077177375,-82.410947084'
+    }, {
+        'name': 'Eagles Point Apartments at Tampa Palms',
+        'link': 'http://maps.google.com/maps?daddr=28.080963791,-82.409101725'
+    }, {
+        'name': 'Oak Ramble',
+        'link': 'http://maps.google.com/maps?daddr=28.080802871,-82.410732508'
+    }, {
+        'name': '42North',
+        'link': 'http://maps.google.com/maps?daddr=28.079856278,-82.412513494'
+    }, {
+        'name': 'Willow Brooke Apartments',
+        'link': 'http://maps.google.com/maps?daddr=28.077328834,-82.414144278'
+    }, {
+        'name': 'Cambridge Woods',
+        'link': 'http://maps.google.com/maps?daddr=28.075766901,-82.416032553'
+    }, {
+        'name': 'The Oaks Condominuims',
+        'link': 'http://maps.google.com/maps?daddr=28.076173952,-82.413039207'
+    }, {
+        'name': 'Monticello of 42nd St',
+        'link': 'http://maps.google.com/maps?daddr=28.073845219,-82.413489819'
+    }, {
+        'name': '4050 Lofts',
+        'link': 'http://maps.google.com/maps?daddr=28.072444167,-82.414627075'
+    }, {
+        'name': 'Avalon Heights',
+        'link': 'http://maps.google.com/maps?daddr=28.070200554,-82.412288189'
+    }, {
+        'name': 'The Flats at 4200',
+        'link': 'http://maps.google.com/maps?daddr=28.069424272,-82.413221598'
+    }, {
+        'name': 'Urban Place Apartments',
+        'link': 'http://maps.google.com/maps?daddr=28.068174635,-82.400722504'
+    }, {
+        'name': 'ON50',
+        'link': 'http://maps.google.com/maps?daddr=28.066338021,-82.401859760'
+    }, {
+        'name': 'The Ivy',
+        'link': 'http://maps.google.com/maps?daddr=28.073532824,-82.421321869'
+    }, {
+        'name': "Papa John's Pizza, Bruce B Downs Blvd",
+        'link': 'http://maps.google.com/maps?daddr=28.082868781,-82.412135303'
+    }, {
+        'name': 'St Moritz Apartments',
+        'link': 'http://maps.google.com/maps?daddr=28.073987216,-82.417073250'
+    }, {
+        'name': 'University Mall',
+        'link': 'http://maps.google.com/maps?daddr=28.057552136,-82.434421778'
+    }, {
+        'name': 'UATC Metrorapid Station',
+        'link': 'http://maps.google.com/maps?daddr=28.066853981,-82.429486513'
+    }, {
+        'name': 'Busch Gardens Tampa Bay',
+        'link': 'http://maps.google.com/maps?daddr=28.037080510,-82.421509624'
+    }, {
+        'name': 'Juniper Dining',
+        'link': 'http://maps.google.com/maps?daddr=28.059881,-82.418087'
+    }, {
 		'name':"Moe's",
 		'link':'http://maps.google.com/maps?daddr=28.064055,-82.413879'
 	},{
@@ -454,6 +511,6 @@ var tableData=[
 		'link':'http://maps.google.com/maps?daddr=28.063895,-82.424986'
 	},{
         'name':'Walmart',
-        'link':"https://www.google.com/maps/dir/''/Walmart+Supercenter,+2701+E+Fletcher+Ave,+Tampa,+FL+33612/"
+        'link': "http://maps.google.com/maps?daddr=28.068171500,-82.428209100"
     }
 ]
