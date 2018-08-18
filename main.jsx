@@ -50,7 +50,7 @@ var InstantBox = React.createClass({
                     <div class="container">
                         <div class="content has-text-centered">
                             <p>
-                                <strong>Quip</strong> by <a href="http://vinnakota.co.in">Saikrishna Vinnakota</a> and
+                                <strong>Quip</strong> by <a href="http://vinnakota.co.in">Saikrishna Vinnakota</a> and&nbsp;
                                 <a href="http://fadibitar.me">Fadi Bitar</a>.
                             </p>
                             <p>
