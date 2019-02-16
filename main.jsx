@@ -35,7 +35,7 @@ var InstantBox = React.createClass({
                 <section className={this.state.color}>
                     <div className="hero-body">
                         <div className="container has-text-centered">
-                            <img src="http://vinnakota.co.in/parkingApp/images/logo.png" />
+                            <img src="./logo.png" />
                             <h1 className="title">
                                 Quip
                             </h1>
